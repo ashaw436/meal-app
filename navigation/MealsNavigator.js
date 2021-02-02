@@ -121,6 +121,7 @@ const defaultStackNavOptions = {
       contentOptions: {
         activeTintColor: Colors.accentColor,
         labelStyle: {
+          marginVertical:30,
           fontFamily: 'open-sans-bold'
         }
       }
